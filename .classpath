@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/InventarioBombero.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="dist/lib/mysql-connector-java-5.1.38-bin.jar"/>
+	<classpathentry kind="lib" path="C:/AplicacionesEclipse/GestionHorariosClases/WebContent/WEB-INF/lib/jasperreports-5.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/AplicacionesEclipse/GestionHorariosClases/WebContent/WEB-INF/lib/commons-beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/AplicacionesEclipse/GestionHorariosClases/WebContent/WEB-INF/lib/commons-codec.jar"/>
+	<classpathentry kind="lib" path="C:/AplicacionesEclipse/GestionHorariosClases/WebContent/WEB-INF/lib/commons-collections.jar"/>
+	<classpathentry kind="lib" path="C:/AplicacionesEclipse/GestionHorariosClases/WebContent/WEB-INF/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/AplicacionesEclipse/GestionHorariosClases/WebContent/WEB-INF/lib/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/AplicacionesEclipse/GestionHorariosClases/WebContent/WEB-INF/lib/commons-fileupload.jar"/>
+	<classpathentry kind="lib" path="C:/AplicacionesEclipse/GestionHorariosClases/WebContent/WEB-INF/lib/commons-io.jar"/>
+	<classpathentry kind="lib" path="C:/AplicacionesEclipse/GestionHorariosClases/WebContent/WEB-INF/lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/AplicacionesEclipse/GestionHorariosClases/WebContent/WEB-INF/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/AplicacionesEclipse/GestionHorariosClases/WebContent/WEB-INF/lib/itext.jar"/>
+	<classpathentry kind="lib" path="C:/AplicacionesEclipse/GestionHorariosClases/WebContent/WEB-INF/lib/itextpdf-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chico/Downloads/jasperreports-fonts-5.6.0.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
